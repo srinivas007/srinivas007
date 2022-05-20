@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srinivas007
 - 👀 I’m interested in solving problems with code
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, java, DSA
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me https://wa.me+919390867717
 
